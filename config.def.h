@@ -30,7 +30,7 @@ static const Rule rules[] = {
 	{ "Gimp",                 NULL,       NULL,       0,            1,           -1 },
 	{ "Firefox",              NULL,       NULL,       1 << 8,       0,           -1 },
 	{ "jetbrains-pycharm",    NULL,       NULL,       1 << 3,       1,           -1 },
-	{ "crx_gaedmjdfmmahhbjefcbgaolhhanlaolb",        NULL,       NULL,    0,            1,           -1 },
+	{ "crx_gaedmjdfmmahhbjefcbgaolhhanlaolb",        NULL,       "Authy",    0,            1,           -1 },
 };
 
 /* layout(s) */
