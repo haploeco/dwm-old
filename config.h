@@ -57,8 +57,8 @@ static const Rule rules[] = {
 	{ "Firefox",              NULL,       NULL,       1 << 8,       0,          0,           -1 },
 	{ "jetbrains-pycharm",    NULL,       NULL,       1 << 3,       1,          1,           -1 },
 	{ "Google-chrome",        NULL,       "Authy",    0,            1,          1,           -1 },
-	{ "Slack",                NULL,       NULL,       1 << 2,       0,          0,           -1 },
-	{ "Keybase",              NULL,       NULL,       1 << 2,       0,          0,           -1 },
+	{ "Slack",                NULL,       NULL,       1 << 4,       0,          0,           -1 },
+	{ "Keybase",              NULL,       NULL,       1 << 4,       0,          0,           -1 },
 };
 
 /* layout(s) */
